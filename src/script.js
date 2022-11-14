@@ -27,7 +27,7 @@ const scene = new THREE.Scene()
  * Textures
  */
 const textureLoader = new THREE.TextureLoader()
-const matCapTexture = textureLoader.load('/textures/matcaps/3.png')
+const matCapTexture = textureLoader.load('/textures/matcaps/4.png')
 
 /* 
 fonts
